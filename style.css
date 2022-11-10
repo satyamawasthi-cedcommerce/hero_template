@@ -1,0 +1,35 @@
+body {
+  background-color: #EFF6FF;
+}
+.topSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.topSection h1 {
+  color: #1d4ed8;
+}
+.topSection-list {
+  list-style: none;
+  display: flex;
+  margin-left: 2%;
+}
+.topSection-list li {
+  margin-left: 4%;
+}
+.topSection-list li a {
+  text-decoration: none;
+  color: #1d4ed8;
+}
+.lowerSection{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.lowerSection-list{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: #1d4ed8;
+}
